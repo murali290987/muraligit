@@ -1,2 +1,2 @@
 # muraligit
-magento 2 to murali
+murali to magento 2  
